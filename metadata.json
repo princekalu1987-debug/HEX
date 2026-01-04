@@ -1,0 +1,7 @@
+{
+  "name": "HEX Fashion",
+  "description": "A high-end, futuristic fashion house founded by Penny in 2025, featuring AI-driven style consultation and visionary design generation by a 16-year-old prodigy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
